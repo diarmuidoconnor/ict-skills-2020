@@ -1,3 +1,3 @@
 Resources.
 
-The Counter example
+The Counter component and the Filter Friends App

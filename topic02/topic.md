@@ -1,3 +1,3 @@
-# React Component model.
+#  React: The Component model.
  
-Explore React's component model in more detail.
+Examine the core aspects of the component model, including state, hooks, and unidirectional data flow. 
