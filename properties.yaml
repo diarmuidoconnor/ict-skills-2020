@@ -6,7 +6,7 @@ credits        : Diarmuid O' Connor, WIT
 ignorepin      : 2125
 auth           : 3
 ignore         :
-  -  topic00
+#  -  topic00
   -  topic01
   -  topic02
   -  topic03
