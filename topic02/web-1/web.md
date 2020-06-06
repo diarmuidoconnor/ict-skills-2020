@@ -1,1 +1,1 @@
-something of interest
+Lecture recording.
