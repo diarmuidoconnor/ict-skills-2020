@@ -1,3 +1,3 @@
 Resources.
 
-Demo app for useReducer hook. Auteentication solution for a React app.
+Demo app for useReducer hook - The Zoom Quiz Manager.
