@@ -1,3 +1,3 @@
 # Assessment.
  
-An overview of the module's assessment plan.
+Module's assessment requirements.
