@@ -1,3 +1,3 @@
-# React Design Patterns.
+# Assessment.
  
-Explain a custom solution to implementing protected navigation routes and introduce the Higher Order Component pattern.
+Module's assessment requirements.
